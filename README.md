@@ -34,10 +34,17 @@ ${\textsf{\color{Pearl} Fans of Characters !}}$
 
 
 [woahlulz](https://github.com/woahlulz/), the Infected / Kasper of PonyTown!
+
 [monachgrievings](https://github/monachgrievings/), the 2011x Eye Emoji of PonyTown!
+
 [twottimey](https://github.com/twottimey/), the Two Time of PonyTown!
+
 [Aspenolia](https://github.com/Aspenolia/), the Azurewrath of PonyTown!
+
 [ACE0FHEART%](https://github.com/ACE0FHEART5), the Chance of PonyTown!
+
 [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin), the Elliot of PonyTown!
+
 [MAFIAPUP](https://github.com/MAFIAPUP/), the Mafioso of PonyTown!
+
 [Chemicalshot](https://github.com/Chemicalshot), the Wemmbu and SpokeIsHere of PonyTown!

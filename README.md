@@ -1,2 +1,43 @@
-# ponytown-badgez
-ｗｅｌｃｏｍｅ， ｎｅｗ ｄｅｖｏｔｅｅ ！
+# <p align="center"> ｗｅｌｃｏｍｅ， ｎｅｗ ｄｅｖｏｔｅｅ ！</p>
+<p align="center"> ⌞ . 𝔓𝔯𝔞𝔦𝔰𝔢 𝔅𝔢 𝔗𝔥𝔢 𝔖𝔭𝔞𝔴𝔫 .⌝ </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&letterSpacing=Normal&duration=6000&pause=50&color=E5E5E5&background=FFFFFF00&width=435&lines=%E2%8C%9E+%22%F0%9D%94%91%F0%9D%94%AC%F0%9D%94%AA%F0%9D%94%A6%F0%9D%94%AB%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2%F0%9D%94%AF%F0%9D%94%B0%F0%9D%94%A2%F0%9D%94%A9%F0%9D%94%A3+%F0%9D%94%AC%F0%9D%94%AF+%F0%9D%94%B0%F0%9D%94%AC%F0%9D%94%AA%F0%9D%94%A2%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A2+%F0%9D%94%B1%F0%9D%94%AC%F0%9D%94%A1%F0%9D%94%9E%F0%9D%94%B6!%22+%E2%8C%9D)](https://git.io/typing-svg)
+<img width="1000" height="100" alt="640027033-287ced27-e529-4014-8448-b722f95dfd9b" src="https://github.com/user-attachments/assets/94f0068e-9f75-42a2-92a3-2c1f188a9054" />
+
+
+
+
+
+# <p align="center"> Categories . </p>
+
+${\textsf{\color{Pearl} Prettiest Ponies !}}$
+
+[Gamblersi](https://github.com/Gamblersi/)
+
+${\textsf{\color{Pearl} Top AFK's !}}$
+
+[ChemicalShot](https://github.com/Chemicalshot/)
+
+${\textsf{\color{Pearl} Cuddliest Of Players! !}}$
+
+[ChemicalShot](https://github.com/Chemicalshot/)
+
+${\textsf{\color{Pearl} Admirable Githubs !}}$
+
+[twottimey](https://github.com/twottimey/)  [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin/) [cr0ssroads](https://github.com/cr0ssroads/)
+
+${\textsf{\color{Pearl} Fans of Characters !}}$
+
+
+
+<img width="735" height="426" alt="878413102342354032" src="https://github.com/user-attachments/assets/5df9cf86-2fac-4321-aa00-544cdd92a2ad" />
+
+
+[woahlulz](https://github.com/woahlulz/), the Infected / Kasper of PonyTown!
+[monachgrievings](https://github/monachgrievings/), the 2011x Eye Emoji of PonyTown!
+[twottimey](https://github.com/twottimey/), the Two Time of PonyTown!
+[Aspenolia](https://github.com/Aspenolia/), the Azurewrath of PonyTown!
+[ACE0FHEART%](https://github.com/ACE0FHEART5), the Chance of PonyTown!
+[elliot-builder-fictkin](https://github.com/elliot-builder-fictkin), the Elliot of PonyTown!
+[MAFIAPUP](https://github.com/MAFIAPUP/), the Mafioso of PonyTown!
+[Chemicalshot](https://github.com/Chemicalshot), the Wemmbu and SpokeIsHere of PonyTown!

@@ -12,15 +12,15 @@
 
 ${\textsf{\color{Pearl} Prettiest Ponies !}}$
 
-[Gamblersi](https://github.com/Gamblersi/)
+[Gamblersi](https://github.com/Gamblersi/) [blsuf](https://github.com/blsuf)
 
 ${\textsf{\color{Pearl} Top AFK's !}}$
 
-[ChemicalShot](https://github.com/Chemicalshot/)
+[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific
 
 ${\textsf{\color{Pearl} Cuddliest Of Players! !}}$
 
-[ChemicalShot](https://github.com/Chemicalshot/)
+[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific
 
 ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
@@ -28,7 +28,7 @@ ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
 ${\textsf{\color{Pearl} Fans of Characters !}}$
 
-
+[dr-vanta](https://github.com/dr-vanta), fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |
 
 <img width="735" height="426" alt="878413102342354032" src="https://github.com/user-attachments/assets/5df9cf86-2fac-4321-aa00-544cdd92a2ad" />
 
@@ -48,3 +48,21 @@ ${\textsf{\color{Pearl} Fans of Characters !}}$
 [MAFIAPUP](https://github.com/MAFIAPUP/), the Mafioso of PonyTown!
 
 [Chemicalshot](https://github.com/Chemicalshot), the Wemmbu and SpokeIsHere of PonyTown!
+
+[Gamblersi](https://github.com/Gamblersi), the Dog Chance of Ponytown!
+
+[VOXMANIA](https://github.com/VOXMANIA), the Vox of Ponytown!
+
+[dr-vanta](https://github.com/dr-vanta), the Dr. Vanta of Ponytown!
+
+[blsuf](https://github.com/blsuf), the Facty of Ponytown!
+
+[evisceration666](https://github.com/evisceration666), the God of Ponytown!
+
+[eyesinafieldofclovers](https://github.com/eyesinafieldofclovers), the Bassie of Ponytown!
+
+[phonehead](https://github.com/phonehead), the Peter Kennedy and Dave Miller of Ponytown!
+
+[kniferrific](https://github.com/kniferrific), the Itzskeetxd662 of Ponytown!
+
+[jeverus](https://github.com/jeverus), the Slasher of Ponytown!

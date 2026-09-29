@@ -66,3 +66,5 @@ ${\textsf{\color{Pearl} Fans of Characters !}}$
 [kniferrific](https://github.com/kniferrific), the Itzskeetxd662 of Ponytown!
 
 [jeverus](https://github.com/jeverus), the Slasher of Ponytown!
+
+[decayingcrow](https://github.com/decayingcrow), the Davesprite of Ponytown!

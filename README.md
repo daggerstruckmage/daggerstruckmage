@@ -16,11 +16,11 @@ ${\textsf{\color{Pearl} Prettiest Ponies !}}$
 
 ${\textsf{\color{Pearl} Top AFK's !}}$
 
-[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific
+[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific)
 
 ${\textsf{\color{Pearl} Cuddliest Of Players! !}}$
 
-[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific
+[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific)
 
 ${\textsf{\color{Pearl} Admirable Githubs !}}$
 

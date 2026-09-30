@@ -28,7 +28,7 @@ ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
 ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
-[dr-vanta](https://github.com/dr-vanta),  fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |  [jeverus](https://github.com/jeverus), n1 fan of Slasher  |  [kiwiconiccc](https://github.com/kiwiconiccc),  fan of Sakura Hakura !
+[dr-vanta](https://github.com/dr-vanta),  fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |  [jeverus](https://github.com/jeverus), n1 fan of Slasher  |  [kiwiconiccc](https://github.com/kiwiconiccc),  fan of Sakura Hakura |  [MAFIAPUP](https://github.com/MAFIAPUP), n1 fan of Bon  |
 
 <img width="735" height="426" alt="878413102342354032" src="https://github.com/user-attachments/assets/5df9cf86-2fac-4321-aa00-544cdd92a2ad" />
 
@@ -68,3 +68,13 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [jeverus](https://github.com/jeverus), the Slasher of Ponytown!
 
 [decayingcrow](https://github.com/decayingcrow), the Davesprite of Ponytown!
+
+[devestquot](https://github.com/devestquot), the Mequot of Ponytown!
+
+[lovingl3tters](https://github.com/lovingl3tters), the Caporegime of Ponytown!
+
+[R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R), the Pizza Guy of Ponytown!
+
+[artfufu](https://github.com/artfufu), the Noli of Ponytown!
+
+[fishyyy3](https://github.com/fishyyyy3), the (Pre-Forsaken) Aspen of Ponytown!

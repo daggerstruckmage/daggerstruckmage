@@ -21,11 +21,11 @@ ${\textsf{\color{Pearl} Top AFK's !}}$
 
 ${\textsf{\color{Pearl} Cuddliest Of Players! !}}$
 
-[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific)
+[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific) [Glistenn](https://github.com/Glistenn)
 
 ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
-[twottimey](https://github.com/twottimey/)  [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin/) [cr0ssroads](https://github.com/cr0ssroads/)
+[twottimey](https://github.com/twottimey/) [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin/) [cr0ssroads](https://github.com/cr0ssroads/) [Glistenn](https://github.com/Glistenn)
 
 ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
@@ -87,3 +87,7 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [cr0ssroads](https://github.com/cr0ssroads), the Derek/Dallas of Ponytown!
 
 [itrap-2245](https://github.com/itrap-2245), the Itrapped of Ponytown!
+
+[raininsanity](https://github.com/raininsanity), the Artful of Ponytown !
+
+[VIXXEN](https://github.com/VIXXEN), the Pursuer of Ponytown!

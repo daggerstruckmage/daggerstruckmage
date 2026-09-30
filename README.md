@@ -26,9 +26,9 @@ ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
 [twottimey](https://github.com/twottimey/)  [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin/) [cr0ssroads](https://github.com/cr0ssroads/)
 
-${\textsf{\color{Pearl} Fans of Characters !}}$
+${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
-[dr-vanta](https://github.com/dr-vanta), fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |
+[dr-vanta](https://github.com/dr-vanta),  fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |  [jeverus](https://github.com/jeverus), n1 fan of Slasher  |  [kiwiconiccc](https://github.com/kiwiconiccc),  fan of Sakura Hakura !
 
 <img width="735" height="426" alt="878413102342354032" src="https://github.com/user-attachments/assets/5df9cf86-2fac-4321-aa00-544cdd92a2ad" />
 

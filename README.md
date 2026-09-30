@@ -16,7 +16,8 @@ ${\textsf{\color{Pearl} Prettiest Ponies !}}$
 
 ${\textsf{\color{Pearl} Top AFK's !}}$
 
-[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific)
+[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific) [sorrowfulpredict](https://github.com/sorrowfulpredict)
+[elliot-builder-fictkin](https://github.com/elliot-builder-fictkin)
 
 ${\textsf{\color{Pearl} Cuddliest Of Players! !}}$
 
@@ -28,7 +29,7 @@ ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
 ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
-[dr-vanta](https://github.com/dr-vanta),  fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |  [jeverus](https://github.com/jeverus), n1 fan of Slasher  |  [kiwiconiccc](https://github.com/kiwiconiccc),  fan of Sakura Hakura |  [MAFIAPUP](https://github.com/MAFIAPUP), n1 fan of Bon  |
+[dr-vanta](https://github.com/dr-vanta),  fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |  [jeverus](https://github.com/jeverus), n1 fan of Slasher  |  [kiwiconiccc](https://github.com/kiwiconiccc),  fan of Sakura Hakura  |  [MAFIAPUP](https://github.com/MAFIAPUP), n1 fan of Bon  |  [PESKYMAILMAN](https://github.com/PESKYMAILMAN), n1 fan of Tenna  |  [Twixxel_Lessgo](https://github.com/Twixxel-Lessgo), n1 fan of Twixxel  |  [twottimey](https://github.com/twottimey), n1 fan of Two Time  |  [carcrashxoxo](https://github.com/carcrashxoxo), the n1 fan of Azure  |  [devestquot](https://github.com/devestqupt), n1 fan of Mequot
 
 <img width="735" height="426" alt="878413102342354032" src="https://github.com/user-attachments/assets/5df9cf86-2fac-4321-aa00-544cdd92a2ad" />
 
@@ -78,3 +79,7 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [artfufu](https://github.com/artfufu), the Noli of Ponytown!
 
 [fishyyy3](https://github.com/fishyyyy3), the (Pre-Forsaken) Aspen of Ponytown!
+
+[PESKYMAILMAN](https://github/PESKYMAILMAN), the Spamton of Ponytown!
+
+[sorrowfulpredict](https://github.com/sorrowfulpredict), the 1x1x1x1 of Ponytown!

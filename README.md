@@ -25,7 +25,8 @@ ${\textsf{\color{Pearl} Cuddliest Of Players! !}}$
 
 ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
-[twottimey](https://github.com/twottimey/) [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin/) [cr0ssroads](https://github.com/cr0ssroads/) [Glistenn](https://github.com/Glistenn)
+[twottimey](https://github.com/twottimey/) [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin/) [cr0ssroads](https://github.com/cr0ssroads/) [Glistenn](https://github.com/Glistenn) [TheSonnellinos](https://github.com/TheSonnellinos)
+[zackingaround](https://github.com/zackingaround)
 
 ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
@@ -91,3 +92,5 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [raininsanity](https://github.com/raininsanity), the Artful of Ponytown !
 
 [VIXXEN](https://github.com/VIXXEN), the Pursuer of Ponytown!
+
+[BUNN3R1E](https://github.com/BUNN3R1E), the 007n7 of Ponytown!

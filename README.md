@@ -100,3 +100,5 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [putmetorestimnotyourstosave](https://github.com/putmetorestimnotyourstosave), the Oliver Otter of Ponytown!
 
 [naturalharmoniaa](https://github.com/naturalharmoniaa), the Natural Harmonia Gropius of Ponytown!
+
+[sea-shantyyy](https://github.com/sea-shantyyy), the Shedletsky and Telamon of Ponytown!

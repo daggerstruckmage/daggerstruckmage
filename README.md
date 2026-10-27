@@ -44,15 +44,13 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
 [Aspenolia](https://github.com/Aspenolia/), the Azurewrath of PonyTown!
 
-[ACE0FHEART%](https://github.com/ACE0FHEART5), the Chance of PonyTown!
-
 [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin), the Elliot of PonyTown!
 
 [MAFIAPUP](https://github.com/MAFIAPUP/), the Mafioso of PonyTown!
 
 [Chemicalshot](https://github.com/Chemicalshot), the Wemmbu and SpokeIsHere of PonyTown!
 
-[Gamblersi](https://github.com/Gamblersi), the Dog Chance of Ponytown!
+[Gamblersi](https://github.com/Gamblersi), the Chance of Ponytown!
 
 [VOXMANIA](https://github.com/VOXMANIA), the Vox of Ponytown!
 
@@ -143,3 +141,5 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [VArtfultrust](https://github.com/VArtfultrust), the Eggchan of Ponytown!
 
 [demonbell3](https://github.com/demonbell3), the Charlie Morningstar of Ponytown!
+
+[biteofme](https://github.com/biteofme), the Verosika of Ponytown!

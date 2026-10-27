@@ -1,7 +1,7 @@
 # <p align="center"> ｗｅｌｃｏｍｅ， ｎｅｗ ｄｅｖｏｔｅｅ ！</p>
 <p align="center"> ⌞ . 𝔓𝔯𝔞𝔦𝔰𝔢 𝔅𝔢 𝔗𝔥𝔢 𝔖𝔭𝔞𝔴𝔫 .⌝ </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&letterSpacing=Normal&duration=6000&pause=50&color=E5E5E5&background=FFFFFF00&width=435&lines=%E2%8C%9E+%22%F0%9D%94%91%F0%9D%94%AC%F0%9D%94%AA%F0%9D%94%A6%F0%9D%94%AB%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%A2+%F0%9D%94%B6%F0%9D%94%AC%F0%9D%94%B2%F0%9D%94%AF%F0%9D%94%B0%F0%9D%94%A2%F0%9D%94%A9%F0%9D%94%A3+%F0%9D%94%AC%F0%9D%94%AF+%F0%9D%94%B0%F0%9D%94%AC%F0%9D%94%AA%F0%9D%94%A2%F0%9D%94%AC%F0%9D%94%AB%F0%9D%94%A2+%F0%9D%94%B1%F0%9D%94%AC%F0%9D%94%A1%F0%9D%94%9E%F0%9D%94%B6!%22+%E2%8C%9D)](https://git.io/typing-svg)
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=We+want+you+to+nominate+now!" alt="Typing SVG" /></a></p>
 <img width="1000" height="100" alt="640027033-287ced27-e529-4014-8448-b722f95dfd9b" src="https://github.com/user-attachments/assets/94f0068e-9f75-42a2-92a3-2c1f188a9054" />
 
 

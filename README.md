@@ -12,7 +12,7 @@
 
 ${\textsf{\color{Pearl} Prettiest Ponies !}}$
 
-[Gamblersi](https://github.com/Gamblersi/) [blsuf](https://github.com/blsuf) [AcxerSonnellino](https://github.com/AcxerSonnellino) [
+[Gamblersi](https://github.com/Gamblersi/) [blsuf](https://github.com/blsuf) [AcxerSonnellino](https://github.com/AcxerSonnellino) [dearvoidstar](https://github.com/dearvoidstar) [voidbat](https://github.com/voidbat) [twottimey](https://github.com/twottimey) [PoisonedRitual](https://github.com/poisonedRitual)
 
 ${\textsf{\color{Pearl} Top AFK's !}}$
 
@@ -21,7 +21,7 @@ ${\textsf{\color{Pearl} Top AFK's !}}$
 
 ${\textsf{\color{Pearl} Cuddliest Of Players! !}}$
 
-[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific) [Glistenn](https://github.com/Glistenn)
+[ChemicalShot](https://github.com/Chemicalshot/) [kniferrific](https://github.com/kniferrific) [Glistenn](https://github.com/Glistenn) [zyvism](https://github.com/zyvism)
 
 ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
@@ -30,7 +30,7 @@ ${\textsf{\color{Pearl} Admirable Githubs !}}$
 
 ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
-[dr-vanta](https://github.com/dr-vanta),  fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |  [jeverus](https://github.com/jeverus), n1 fan of Slasher  |  [kiwiconiccc](https://github.com/kiwiconiccc),  fan of Sakura Hakura  |  [MAFIAPUP](https://github.com/MAFIAPUP), n1 fan of Bon  |  [PESKYMAILMAN](https://github.com/PESKYMAILMAN), n1 fan of Tenna  |  [Twixxel_Lessgo](https://github.com/Twixxel-Lessgo), n1 fan of Twixxel  |  [twottimey](https://github.com/twottimey), n1 fan of Two Time  |  [carcrashxoxo](https://github.com/carcrashxoxo), the n1 fan of Azure  |  [devestquot](https://github.com/devestqupt), n1 fan of Mequot  |  [itrap-2245](https://github.com/itrap-2245), n1 fan of Itrapped  |  [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST), n1 fan of Mafioso  |  [disorderlyfashion](https://github.com/disorderlyfashion), n1 fan of Blitzo |  [putmetorestimnotyourstosave](https://github.com/putmetorestimnotyourstosave), the n1 fan of shipwrecked64  |  [naturalharmoniaa](https://github.com/naturalharmoniaa), the n1 fan of N  |  [Chemicalshot](https://github.com/Chemicalshot), the n1 fan of Wemmbu  |  [Bloodkissed](https://github.com/BloodKissed), n1 fan of Gardevoir  |  [kazutorawr](https://github.com/kazutorawr), n1 fan of izana kurokawa  |  [bridalbait](https://github.com/bridalbaot), n1 fan of Mami
+[dr-vanta](https://github.com/dr-vanta),  fan of DR. Vanta  |  [S0NICSZ](https://github.com/S0NICSZ), n1 fan of Sonic  |  [jeverus](https://github.com/jeverus), n1 fan of Slasher  |  [kiwiconiccc](https://github.com/kiwiconiccc),  fan of Sakura Hakura  |  [MAFIAPUP](https://github.com/MAFIAPUP), n1 fan of Bon  |  [PESKYMAILMAN](https://github.com/PESKYMAILMAN), n1 fan of Tenna  |  [Twixxel_Lessgo](https://github.com/Twixxel-Lessgo), n1 fan of Twixxel  |  [twottimey](https://github.com/twottimey), n1 fan of Two Time  |  [carcrashxoxo](https://github.com/carcrashxoxo), the n1 fan of Azure  |  [devestquot](https://github.com/devestqupt), n1 fan of Mequot  |  [itrap-2245](https://github.com/itrap-2245), n1 fan of Itrapped  |  [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST), n1 fan of Mafioso  |  [disorderlyfashion](https://github.com/disorderlyfashion), n1 fan of Blitzo |  [putmetorestimnotyourstosave](https://github.com/putmetorestimnotyourstosave), the n1 fan of shipwrecked64  |  [naturalharmoniaa](https://github.com/naturalharmoniaa), the n1 fan of N  |  [Chemicalshot](https://github.com/Chemicalshot), the n1 fan of Wemmbu  |  [Bloodkissed](https://github.com/BloodKissed), n1 fan of Gardevoir  |  [kazutorawr](https://github.com/kazutorawr), n1 fan of izana kurokawa  |  [bridalbait](https://github.com/bridalbaot), n1 fan of Mami | [zyvism](https://github.com/zyvism), the n1 Lovepads fan |
 
 <img width="735" height="426" alt="878413102342354032" src="https://github.com/user-attachments/assets/5df9cf86-2fac-4321-aa00-544cdd92a2ad" />
 
@@ -120,3 +120,25 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [bridalbait](https://github.com/bridalbait), the Black Forest Cookie of Ponytown!
 
 [T0R4X](https:/github.com/T0R4X), the Medic (Herbert Ludwig) of Ponytown!
+
+[FLORAISONS](https://github.com/FLORAISONS), the Dusekkar of Ponytown!
+
+[2099s](https://github.com/2099s), the Miguel O' Hara of Ponytown!
+
+[promiseduo](https://github.com/promiseduo), the Jaden_Man of Ponytown!
+
+[Pupfies](https://github.com/pupfies), the Wifies of Ponytown!
+
+[Heart0fGold](https://github.com/Heart0fGold), the Karl and Michael Ney of Ponytown!
+
+[Ham-milton](https://github.com/Ham-miltion), the Scared French Soldier and Jean Lannes of Ponytown!
+
+[dearvoidstar](https://github.com/dearvoidstar), the Noli of Ponytown!
+
+[SQUEVIL](https://github.com/SQUEVIL), the TheRealSquiddo of Ponytown!
+
+[waxwellkin](https://github.com/waxwellkin), the Waxwell of Ponytown!
+
+[VArtfultrust](https://github.com/VArtfultrust), the Eggchan of Ponytown!
+
+[demonbell3](https://github.com/demonbell3), the Charlie Morningstar of Ponytown!

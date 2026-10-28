@@ -143,3 +143,5 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [demonbell3](https://github.com/demonbell3), the Charlie Morningstar of Ponytown!
 
 [biteofme](https://github.com/biteofme), the Verosika of Ponytown!
+
+[planticnurii](https://github.com/PlanticNurii), the Andrew of ponytown!

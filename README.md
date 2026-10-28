@@ -76,8 +76,6 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
 [R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R), the Pizza Guy of Ponytown!
 
-[artfufu](https://github.com/artfufu), the Noli of Ponytown!
-
 [fishyyy3](https://github.com/fishyyyy3), the (Pre-Forsaken) Aspen of Ponytown!
 
 [PESKYMAILMAN](https://github/PESKYMAILMAN), the Spamton of Ponytown!

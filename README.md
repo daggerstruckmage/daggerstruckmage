@@ -145,3 +145,5 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [planticnurii](https://github.com/PlanticNurii), the Andrew of ponytown!
 
 [siannkit](https://github.com/siannkit), the Shadow Milk Cookie of Ponytown!
+
+[yubelsrevenge](https://github.com/yubelsrevenge), the Judai Yuki of Ponytown!

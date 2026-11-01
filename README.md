@@ -5,14 +5,14 @@
 <img width="1000" height="100" alt="640027033-287ced27-e529-4014-8448-b722f95dfd9b" src="https://github.com/user-attachments/assets/94f0068e-9f75-42a2-92a3-2c1f188a9054" />
 
 
-
+<p align="center"> Also guys, PLEASE check who is taken before submitting a request! ^_^ </p>
 
 
 # <p align="center"> Categories . </p>
 
 ${\textsf{\color{Pearl} Prettiest Ponies !}}$
 
-[Gamblersi](https://github.com/Gamblersi/) [blsuf](https://github.com/blsuf) [AcxerSonnellino](https://github.com/AcxerSonnellino) [dearvoidstar](https://github.com/dearvoidstar) [voidbat](https://github.com/voidbat) [twottimey](https://github.com/twottimey) [PoisonedRitual](https://github.com/poisonedRitual)
+[Gamblersi](https://github.com/Gamblersi/) [blsuf](https://github.com/blsuf) [AcxerSonnellino](https://github.com/AcxerSonnellino) [dearvoidstar](https://github.com/dearvoidstar) [voidbat](https://github.com/voidbat) [twottimey](https://github.com/twottimey) [PoisonedRitual](https://github.com/poisonedRitual) [denguemon](https://github.com/denguemon)
 
 ${\textsf{\color{Pearl} Top AFK's !}}$
 
@@ -147,3 +147,13 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [siannkit](https://github.com/siannkit), the Shadow Milk Cookie of Ponytown!
 
 [yubelsrevenge](https://github.com/yubelsrevenge), the Judai Yuki of Ponytown!
+
+[rydenyuri](https://github.com/rydenyuri), the Ryan Ross of Ponytown!
+
+[denguemon](https://github.com/denguemon), the Shin Joong Hyun of Ponytown!
+
+[sharpfrostcherv](https://github.com/sharpfrostcherv), the Travis Rapid of Ponytown!
+
+[mydearmeIancholy](https://github.com/mydearmeIancholy), the Power of Ponytown!
+
+[liquidsmooth](https://github.com/liquidsmooth), the DumbIsDumb of Ponytown!

@@ -74,7 +74,7 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 
 [lovingl3tters](https://github.com/lovingl3tters), the Caporegime of Ponytown!
 
-[R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R), the Pizza Guy of Ponytown!
+[NikaMokochi](https://github.com/NikaMokochi), the Pizza Guy of Ponytown!
 
 [fishyyy3](https://github.com/fishyyyy3), the (Pre-Forsaken) Aspen of Ponytown!
 
@@ -157,3 +157,5 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [mydearmeIancholy](https://github.com/mydearmeIancholy), the Power of Ponytown!
 
 [liquidsmooth](https://github.com/liquidsmooth), the DumbIsDumb of Ponytown!
+
+[wonderdream404](https://github.com/wonderdream404), the Xerneas of Ponytown!

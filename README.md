@@ -159,3 +159,5 @@ ${\textsf{\color{Pearl} Fans of Characters / Series !}}$
 [liquidsmooth](https://github.com/liquidsmooth), the DumbIsDumb of Ponytown!
 
 [wonderdream404](https://github.com/wonderdream404), the Xerneas of Ponytown!
+
+[NariTheMakoSh4rk](https://github.com/NariTheMakoSh4rk), the Contractee of Ponytown!
